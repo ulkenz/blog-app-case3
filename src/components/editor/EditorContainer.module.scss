@@ -1,0 +1,15 @@
+.container-editor {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    margin-bottom: 50px;
+
+    .title-editor {
+        text-align: center;
+        font-size: 30px;
+        margin-bottom: 20px;
+        margin-top: 30px;
+        color: black;
+    }
+}

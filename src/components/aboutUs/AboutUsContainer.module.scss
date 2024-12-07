@@ -1,0 +1,19 @@
+.about-us-container {
+    margin: auto;
+
+    .logo {
+
+        &-text {
+            font-size: 4rem;
+            color: #006717;
+
+            &_color {
+                color: azure;
+                background-color: #006717;
+                padding: 0 8px;
+                border-radius: 15px;
+                transition: 1.5s;
+            }
+        }
+    }
+}
